@@ -1,3 +1,6 @@
+# Link to my solution on CheckiO:
+# https://py.checkio.org/mission/morse-encoder/publications/hawkinmogen/python-3/first/share/0bd2185dc16dce3ee128e13c75b95528/
+
 MORSE = {'a': '.-',    'b': '-...',  'c': '-.-.',
          'd': '-..',   'e': '.',     'f': '..-.',
          'g': '--.',   'h': '....',  'i': '..',
