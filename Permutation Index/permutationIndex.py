@@ -1,3 +1,6 @@
+# Link to my solution on CheckiO:
+# https://py.checkio.org/mission/permutation-index/publications/hawkinmogen/python-3/first/share/faab6135192124085acf74e388e1ea30/
+
 from typing import Tuple
 import math
 
