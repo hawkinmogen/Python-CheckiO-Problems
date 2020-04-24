@@ -1,3 +1,5 @@
+# Link to my solution on CheckiO:
+# https://py.checkio.org/mission/reverse-roman-numerals/publications/hawkinmogen/python-3/brute-force/share/c66e9dc3af41f7a4fd759ce448a2bda4/
 def reverse_roman(roman_string):
     result=0
     NUMERALS={'M':1000,'CM':900,'D':500,'CD':400,'C':100,'XC':90,
