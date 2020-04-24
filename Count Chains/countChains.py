@@ -1,3 +1,4 @@
+# My solution on CheckiO:
 # https://py.checkio.org/mission/count-chains/publications/hawkinmogen/python-3/first/share/49303c9a48845ce11947722bea71b74f/
 
 from typing import List, Tuple
