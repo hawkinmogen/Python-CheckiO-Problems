@@ -11,7 +11,7 @@ MORSE = {'a': '.-',    'b': '-...',  'c': '-.-.',
          '4': '....-', '5': '.....', '6': '-....',
          '7': '--...', '8': '---..', '9': '----.'
         }
-
+#Uses the 'MORSE' dictionary to append the morse-code equivalent for each alpha-numeric character to 'result'
 def morse_encoder(text):
     text=text.lower()
     result=""
