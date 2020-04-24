@@ -1,3 +1,6 @@
+# Link to my solution on CheckiO:
+# https://py.checkio.org/mission/stair-steps/publications/hawkinmogen/python-3/find-all-possible-paths-then-return-max-sum/share/bd8981336b990aa673a1bb92473b304c/
+
 def allPaths(current, end, possibleSteps, path, result):
     # Returns all possible permutations of staircase paths....
     # where 'end' is the length of the staircase and 'possibleSteps' are...
