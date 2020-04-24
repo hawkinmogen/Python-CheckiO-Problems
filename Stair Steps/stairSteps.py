@@ -5,7 +5,7 @@ def allPaths(current, end, possibleSteps, path, result):
    
    if current>end:
         return
-    if current==end:
+   if current==end:
         result.append(path)
         return
     for step in possibleSteps:
