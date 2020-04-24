@@ -1,3 +1,6 @@
+# Link to my solution on CheckiO:
+# https://py.checkio.org/mission/roman-numerals/publications/hawkinmogen/python-3/first/share/7e771838405cfd368ffb68b6f0e16292/
+
 def checkio(data):
     result=""
     NUMERALS=(('M',1000),('CM',900),('D',500),('CD',400),('C',100),('XC',90),
