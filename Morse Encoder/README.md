@@ -14,5 +14,7 @@ Output: The same string, but encrypted.
 Example:
 
 morse_encoder("some text") == "... --- -- .   - . -..- -"
+
 morse_encoder("2018") == "..--- ----- .---- ---.."
+
 morse_encoder("It was a good day") == ".. -   .-- .- ...   .-   --. --- --- -..   -.. .- -.--"
