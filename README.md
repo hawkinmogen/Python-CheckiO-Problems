@@ -1,7 +1,7 @@
 # Python-CheckiO-Problems
 Some of Hawkin Mogen's solutions to various python problems on https://checkio.org/
 
-Links for each problem provided in respective problem folders.
+Links and descriptions for each problem provided in respective problem folders.
 
 Solutions for each problem provided in respective problem folders.
 
